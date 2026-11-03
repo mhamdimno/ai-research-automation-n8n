@@ -20,7 +20,7 @@ You simply execute the workflow, and the automation handles the remaining steps:
 
 ## Workflow Architecture
 
-![AI Research Automation Workflow](screenshots/workflow-overview.png)
+![AI Research Automation Workflow](chrome_EMuUy7kRPS.png)
 
 **Workflow sequence:**
 
